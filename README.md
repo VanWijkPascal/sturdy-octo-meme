@@ -10,3 +10,5 @@ outcome: the file cannot be opened by Visual Studio (even after being create the
 
 ran "git rm --cached appconfig.json on my machine to remove the file form the index, and github told me "file conflict, index deleted"
 so it did, now to see whether or not it worked
+
+github syas "the diff has been deleted", the file is still there, but only the first 2 lines of text exist
