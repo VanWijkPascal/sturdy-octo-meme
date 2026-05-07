@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="WebApplication1/WebApplication1.csproj" />
+  <Project Path="QRCodeGenerator.Utils/QRCodeGenerator.Utils.csproj" />
+  <Project Path="WebApplication1/QRCodeGenerator.csproj" />
 </Solution>
