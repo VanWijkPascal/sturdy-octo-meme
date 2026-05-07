@@ -13,3 +13,6 @@ so it did, now to see whether or not it worked
 
 github syas "the diff has been deleted", the file is still there, but only the first 2 lines of text exist
 correction: the file is still there /in the commit history/, it isnt there on the project
+
+what happends when you remove the entire text and replace it with something else in the github push history?
+the old text is shown as deleted and the new as added ( red " - " and green " + " everywhere)
